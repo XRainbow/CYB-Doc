@@ -1,4 +1,4 @@
-充佣宝线下资料上传系统
+资料上传
 
 点击「充佣宝」-选择「充佣宝开户」，点击搜索「经纪公司」，点击「充佣宝申请开户」，点击「确认」，进入资料编辑界面
 
@@ -22,13 +22,11 @@
 
 3）企业信用资料查询，截图，上传
 
-* 国家企业信用信息查询网址：http://www.gsxt.gov.cn/index.html
+* 国家企业信用信息查询网址：[http://www.gsxt.gov.cn/index.html](http://www.gsxt.gov.cn/index.html)
 
-* 启信宝查询网址：https://www.qixin.com/
+* 启信宝查询网址：[https://www.qixin.com/](https://www.qixin.com/)
 
 ![](/1/企业)
-
-
 
 ![](/1/启信宝)
 
