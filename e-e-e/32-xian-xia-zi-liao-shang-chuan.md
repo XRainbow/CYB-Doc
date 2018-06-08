@@ -26,7 +26,7 @@
 
 ![](/1/线下资料1)
 
-3）企业信用资料查询，截图，上传
+4）企业信用资料查询，截图，上传
 
 * 国家企业信用信息查询网址：[http://www.gsxt.gov.cn/index.html](http://www.gsxt.gov.cn/index.html)
 
