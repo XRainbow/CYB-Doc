@@ -18,5 +18,7 @@
   * [4.2 订单审核](4chong-yong-bao/ding-dan-shen-he.md)
   * [4.3 进件放款](4chong-yong-bao/43-ding-dan-bao-jin-jian.md)
   * [4.4 开票支付](4chong-yong-bao/44-jie-yong-kai-piao.md)
-* 5. 充佣宝还款
+* [5. 充佣宝还款](5.md)
+* [6. 充佣宝原件邮寄](7.md)
+* [7. 充佣宝资料更新流程](7.md)
 
