@@ -12,9 +12,7 @@
 
 * 登录懒投资网站：[https://lantouzi.com/login?jump=%2Fuser](https://lantouzi.com/login?jump=%2Fuser)
 * 输入用户名、密码、手机号码验证
-* 激活存管账户，确认企业信息，设置企业密码、对公账号![](/assets/账号激活)
-
-        ![](/1/企业信息)
+* 激活存管账户，确认企业信息，设置企业密码、对公账号![](/assets/账号激活)![](/assets/import.png123)
 
 4）资方反正验证结果
 
